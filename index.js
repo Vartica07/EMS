@@ -7,6 +7,6 @@ app.get("/vartica",(req,res) => {   //getting the request and calling it
 });
 
 app.listen(7000, () => {
-    console.log("Server is listening on port 7000");
+    console.log("Server is listening on port 7000.");
 });
 
